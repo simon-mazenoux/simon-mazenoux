@@ -4,7 +4,7 @@
 - 👀 I’m interested in algorithms, data structures and machine learning
 - 🌱 I’m currently learning Celery, RabbitMQ and Python
 - 📫 How to reach me :
-  - simon.mazenoux@etu.uca.fr
+  - simon.mazenoux@gmail.com
   - https://linkedin.com/in/simon-mazenoux
 
 <!---

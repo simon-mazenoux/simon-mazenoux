@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 📖 I'm studying computer science at ISIMA
-- 🔭 I'm currently working as a trainee at CERN for the DIRAC project
+- 🔭 I'm currently working at CERN for the sigmon project
 - 👀 I’m interested in algorithms, data structures and machine learning
 - 🌱 I’m currently learning Celery, RabbitMQ and Python
 - 📫 How to reach me :
